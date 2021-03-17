@@ -51,8 +51,8 @@ public class Field {
                 throw new Exception("You already hit that part of the ship");
             case SHIP:
                 if (visible[x][y] == Tiles.WATER) {
-                    field[x][y] = Tiles.MISS;
-                    visible[x][y] = Tiles.MISS;
+                    field[x][y] = Tiles.HIT;
+                    visible[x][y] = Tiles.HIT;
                 }
                 break;
         }
@@ -60,12 +60,17 @@ public class Field {
 
     }
 
-    public static void breakShip(){
-        
+    public static void breakShip(int x, int y) { // gets coordinates of a known hit, checks adjacent cells to see how far the ship goes. if the entire ship is broken, surrounds it with misses.
+        Tiles[][] fieldbackup = field;
+        Tiles[][] visiblebackup = visible;
+        int xx = x;
+        int yy = y;
+
+        while (field[x][y] != Tiles.WATER || field[x][y] != Tiles.MISS){}
     }
 
     public static boolean victory() {
-        for (Tiles[] tiles : visible) {
+        for (Tiles[] tiles : field) {
             for (Tiles tile : tiles) {
                 if (tile == Tiles.SHIP) return false;
             }

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Gaym {
     public static void play(){
-        while(Field.victory()){
+        while(!Field.victory()){
             System.out.println(Field.printField());
             int x;
             int y;
@@ -19,7 +19,7 @@ public class Gaym {
                     works = false;
 
                 } catch (Exception e){
-                    System.out.println(MikolasovyConsoleBarvy.ANSI_CYAN + "Něcos pokazil. Zkus to znovu.");
+                    System.out.println(MikolasovyConsoleBarvy.ANSI_CYAN + "Něcos pokazil. Zkus to znovu. (" + e + ")");
                     works = true;
                 }
             }
