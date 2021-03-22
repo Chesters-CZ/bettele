@@ -60,13 +60,15 @@ public class Field {
 
     }
 
+    @Deprecated
     public static void breakShip(int x, int y) { // gets coordinates of a known hit, checks adjacent cells to see how far the ship goes. if the entire ship is broken, surrounds it with misses.
         Tiles[][] fieldbackup = field;
         Tiles[][] visiblebackup = visible;
         int xx = x;
         int yy = y;
 
-        while (field[x][y] != Tiles.WATER || field[x][y] != Tiles.MISS){}
+        while (field[x][y] != Tiles.WATER || field[x][y] != Tiles.MISS) {
+        }
     }
 
     public static boolean victory() {
