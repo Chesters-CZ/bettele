@@ -71,7 +71,7 @@ public class Field {
         }
     }
 
-    public static boolean victory() {
+    public static boolean won() {
         for (Tiles[] tiles : field) {
             for (Tiles tile : tiles) {
                 if (tile == Tiles.SHIP) return false;

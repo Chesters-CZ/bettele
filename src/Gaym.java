@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Gaym {
     public static void play() {
-        while (!Field.victory()) {
+        while (!Field.won()) {
             System.out.println(Field.printField());
             int x;
             int y;
