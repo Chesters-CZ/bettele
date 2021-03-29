@@ -5,7 +5,8 @@ public class Main {
                 MikolasovyConsoleBarvy.WHITE + "?" + MikolasovyConsoleBarvy.RESET + "\t obsah tohoto políčka je neznámý. \n" +
                 MikolasovyConsoleBarvy.RED + "H" + MikolasovyConsoleBarvy.RESET + "\t tady býval kus lodi. býval... \n" +
                 MikolasovyConsoleBarvy.BLUE + "W" + MikolasovyConsoleBarvy.RESET + "\t  tady plave kus tvojí munice \n" +
-                MikolasovyConsoleBarvy.PURPLE + "!" + MikolasovyConsoleBarvy.RESET + "\t jestli někde uvidíš tohle, tak jsem něco pokazil. zkus mi dát vědět.");
+                MikolasovyConsoleBarvy.PURPLE + "!" + MikolasovyConsoleBarvy.RESET + "\t jestli někde uvidíš tohle, tak jsem něco pokazil. zkus mi dát vědět."
+        );
 
         Gaym.play();
         System.out.println("gg, vyhrál jsi!");
