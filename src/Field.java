@@ -53,9 +53,7 @@ public class Field {
         }
     }
 
-    /**
-     * čí soupeř vyhrál
-     */
+    // čí soupeř vyhrál
     public static boolean whoseEnemyWon(Player player) {
         return countLode(player) > 0;
     }

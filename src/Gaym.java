@@ -46,10 +46,8 @@ public class Gaym {
         }
 
     }
-//FIXME: předělat anotace tak aby funguvaly.
-    /**
-     * čí pole se vypíše
-     */
+
+    // čí pole se vypíše
     public static String printField(Player player) {
         if (player == Player.ENEMY) {
             return printField();
