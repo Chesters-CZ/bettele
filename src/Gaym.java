@@ -1,4 +1,3 @@
-import java.rmi.UnexpectedException;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -29,7 +28,7 @@ public class Gaym {
                     works = true;
                 }
             }
-            System.out.println("AI útočí...");
+            System.out.println(MikolasovyConsoleBarvy.CYAN + "AI útočí...");
             try {
                 Enemy.attack();
             } catch (Exception e) {
@@ -54,32 +53,28 @@ public class Gaym {
         } else {
             StringBuilder output = new StringBuilder();
             for (Tiles[] tiles : Field.youfield) {
-                for (Tiles tile : tiles) {
-                    switch (tile) {
-                        case SHIP, WATER -> output.append(MikolasovyConsoleBarvy.WHITE + "?" + MikolasovyConsoleBarvy.RESET + " ");
-                        case HIT -> output.append(MikolasovyConsoleBarvy.RED + "H" + MikolasovyConsoleBarvy.RESET + " ");
-                        case MISS -> output.append(MikolasovyConsoleBarvy.BLUE + "W" + MikolasovyConsoleBarvy.RESET + " ");
-                        default -> output.append(MikolasovyConsoleBarvy.PURPLE + "!" + MikolasovyConsoleBarvy.RESET + " ");
-                    }
-                }
-                output.append("\n");
+                print(output, tiles);
             }
             return output.toString();
         }
     }
 
+    private static void print(StringBuilder output, Tiles[] tiles) {
+        for (Tiles tile : tiles) {
+            switch (tile.tiletype) {
+                case SHIP, WATER -> output.append(MikolasovyConsoleBarvy.WHITE + "?" + MikolasovyConsoleBarvy.RESET + " ");
+                case HIT -> output.append(MikolasovyConsoleBarvy.RED + "H" + MikolasovyConsoleBarvy.RESET + " ");
+                case MISS -> output.append(MikolasovyConsoleBarvy.BLUE + "W" + MikolasovyConsoleBarvy.RESET + " ");
+                default -> output.append(MikolasovyConsoleBarvy.PURPLE + "!" + MikolasovyConsoleBarvy.RESET + " ");
+            }
+        }
+        output.append("\n");
+    }
+
     public static String printField() {
         StringBuilder output = new StringBuilder();
         for (Tiles[] tiles : Field.botfield) {
-            for (Tiles tile : tiles) {
-                switch (tile) {
-                    case SHIP, WATER -> output.append(MikolasovyConsoleBarvy.WHITE + "?" + MikolasovyConsoleBarvy.RESET + " ");
-                    case HIT -> output.append(MikolasovyConsoleBarvy.RED + "H" + MikolasovyConsoleBarvy.RESET + " ");
-                    case MISS -> output.append(MikolasovyConsoleBarvy.BLUE + "W" + MikolasovyConsoleBarvy.RESET + " ");
-                    default -> output.append(MikolasovyConsoleBarvy.PURPLE + "!" + MikolasovyConsoleBarvy.RESET + " ");
-                }
-            }
-            output.append("\n");
+            print(output, tiles);
         }
         return output.toString();
     }
