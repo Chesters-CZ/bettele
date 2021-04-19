@@ -1,5 +1,5 @@
 public class Field {
-    static Tiles[][] botfield = {   //Lodě enemáka
+    Tiles[][] botfield = {   //Lodě enemáka
             {Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water()},
             {Tiles.water(), Tiles.ship(1), Tiles.ship(1), Tiles.ship(1), Tiles.water(), Tiles.ship(2), Tiles.ship(2), Tiles.water()},
             {Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water()},
@@ -11,7 +11,7 @@ public class Field {
     };
 
 
-    static Tiles[][] youfield = {   //Lodě tebe
+    Tiles[][] youfield = {   //Lodě tebe
             {Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water()},
             {Tiles.water(), Tiles.ship(1), Tiles.ship(1), Tiles.ship(1), Tiles.water(), Tiles.ship(2), Tiles.ship(2), Tiles.water()},
             {Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water()},
@@ -22,7 +22,7 @@ public class Field {
             {Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water(), Tiles.water()}
     };
 
-    public static void strike(int x, int y) throws Exception {
+    public void strike(int x, int y) throws Exception {
         switch (botfield[x][y].tiletype) {
             case WATER -> botfield[x][y].tiletype = Tiles.Type.MISS;
             case MISS -> throw new Exception("Tady už tvoje munice plave.");
@@ -40,7 +40,7 @@ public class Field {
     /**
      * gets shipid & map of a known hit, checks map for ship cells with same shipid. if no ships with matching shipid are found, the entire ship is considered broken and all tiles surrounding the ship tiles are hit
      */
-    public static void breakShip(int shipid, Tiles[][] field, Player attacked) {
+    public void breakShip(int shipid, Tiles[][] field, Player attacked) {
         boolean isSunk = true;
         for (Tiles[] tiles : field) {
             for (Tiles tile : tiles) {
@@ -73,18 +73,18 @@ public class Field {
 
 
     // čí soupeř vyhrál
-    public static boolean whoseEnemyWon(Player player) {
+    public boolean whoseEnemyWon(Player player) {
         return countLode(player) > 0;
     }
 
-    public static Player whoWon() {
+    public Player whoWon() {
         if (whoseEnemyWon(Player.ENEMY)) return Player.YOU;
         if (whoseEnemyWon(Player.YOU)) return Player.ENEMY;
         return null;
     }
 
-    public static boolean containsWater() {
-        for (Tiles[] tiles : Field.youfield) {
+    public boolean containsWater() {
+        for (Tiles[] tiles : Instance.fieldInstance.youfield) {
             for (Tiles tile : tiles) {
                 if (tile == Tiles.water()) return true;
             }
@@ -92,7 +92,7 @@ public class Field {
         return false;
     }
 
-    public static int countLode(Player player) {
+    public int countLode(Player player) {
         int count = 0;
         if (player == Player.ENEMY) {
             for (Tiles[] tiles : botfield) {

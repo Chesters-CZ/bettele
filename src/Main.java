@@ -12,12 +12,13 @@ public class Main {
 
         System.out.println("Vyber si obtížnost: \n" +
                 MikolasovyConsoleBarvy.WHITE + "WATERWORKS" + MikolasovyConsoleBarvy.RESET + "\t Počítač bude preferovat vodu před loděma \n" +
-                MikolasovyConsoleBarvy.GREEN + "BOGO" + MikolasovyConsoleBarvy.RESET + "\t Počítač hraje náhodně. \n" +
+                MikolasovyConsoleBarvy.GREEN + "BOGO" + MikolasovyConsoleBarvy.RESET + "\t\t Počítač hraje náhodně. \n" +
                 MikolasovyConsoleBarvy.YELLOW + "VENDETTA" + MikolasovyConsoleBarvy.RESET + "\t čím víc počítač umírá, tím víc se trefuje. \n" +
-                MikolasovyConsoleBarvy.RED + "AIMBOT" + MikolasovyConsoleBarvy.RESET + "\t Počítač se pokaždé trefí.");
+                MikolasovyConsoleBarvy.RED + "AIMBOT" + MikolasovyConsoleBarvy.RESET + "\t\t Počítač se pokaždé trefí.");
         Scanner scanner = new Scanner(System.in);
         try {
-            Gaym.play(Enemy.Difficulty.valueOf(scanner.nextLine()));
+            Gaym play = new Gaym();
+            play.play(Enemy.Difficulty.valueOf(scanner.nextLine().toUpperCase()));
         } catch (Exception e) {
             System.out.println(MikolasovyConsoleBarvy.PURPLE + e.getMessage());
             System.exit(2);
