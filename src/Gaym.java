@@ -8,8 +8,8 @@ public class Gaym {
         System.out.println(difficulty);
         botDifficulty = difficulty;
         while (Instance.fieldInstance.whoseEnemyWon(Player.ENEMY) && Instance.fieldInstance.whoseEnemyWon(Player.YOU)) {
-            System.out.println("Tvoje pole: \n" + printField(Player.YOU) + "\n");
-            System.out.println("Nepřítelovo pole: \n" + printField() + "\n");
+            System.out.println("Tvoje pole: \t\t\t\tNepřítelovo pole:");
+            System.out.println(mergeStrings(printField(Player.YOU), printField(Player.ENEMY)));
             int x;
             int y;
             boolean works = true;
@@ -30,10 +30,11 @@ public class Gaym {
                 }
             }
             System.out.println(MikolasovyConsoleBarvy.CYAN + "AI útočí...");
+            Instance.enemyInstance.attack();
             try {
-                Instance.enemyInstance.attack();
+               int i;
             } catch (Exception e) {
-                throw new Exception(MikolasovyConsoleBarvy.PURPLE + "ERROR: AI zaútočilo neplatným způsobem.");
+                throw new Exception(MikolasovyConsoleBarvy.PURPLE + "ERROR: AI zaútočilo neplatným způsobem. " + e.getMessage());
             }
         }
         try {
@@ -77,5 +78,15 @@ public class Gaym {
             print(output, tiles);
         }
         return output.toString();
+    }
+
+    public String mergeStrings(String first, String second){
+        String[] firstSplit = first.split("\n");
+        String[] secondSplit = second.split("\n");
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < firstSplit.length; i++){
+            result.append(firstSplit[i]).append("\t\t\t").append(secondSplit[i]).append("\n");
+        }
+        return result.toString();
     }
 }

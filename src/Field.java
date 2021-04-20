@@ -44,7 +44,7 @@ public class Field {
         boolean isSunk = true;
         for (Tiles[] tiles : field) {
             for (Tiles tile : tiles) {
-                if (tile == Tiles.ship(shipid)) {
+                if (shipid != -1 && tile == Tiles.ship(shipid)) {
                     isSunk = false;
                     break;
                 }
@@ -53,7 +53,7 @@ public class Field {
         if (isSunk) {
             if (attacked == Player.ENEMY) {
                 System.out.println(MikolasovyConsoleBarvy.GREEN + "Výborně, zničil jsi soupeřovu " + shipid + ". loď!");
-            } else System.out.println(MikolasovyConsoleBarvy.RED + "Ale ne! Soupeř zničil tvojí " + shipid + "loď!");
+            } else System.out.println(MikolasovyConsoleBarvy.RED + "Ale ne! Soupeř zničil tvojí " + shipid + ". loď!");
             int x = 0;
             int y;
             for (Tiles[] tiles : field) {

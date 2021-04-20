@@ -1,0 +1,7093 @@
+"C:\Program Files\Java\jdk-14\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\lib\idea_rt.jar=49953:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\bezou\Disk Google\Educanet\2020-2021\Programování\bettele\out\production\bettele" Main
+Vítej v bettele, retardované verzi lodí. 
+Vysvětlivky pro mapu:  
+?	 obsah tohoto políčka je neznámý. 
+H	 tady býval kus lodi. býval... 
+W	  tady plave kus tvojí munice 
+ERR	 jestli někde uvidíš tohle, tak jsem něco pokazil. zkus mi dát vědět.
+Vyber si obtížnost: 
+WATERWORKS	 Počítač bude preferovat vodu před loděma 
+BOGO		 Počítač hraje náhodně. 
+VENDETTA	 čím víc počítač umírá, tím víc se trefuje. 
+AIMBOT		 Počítač se pokaždé trefí.
+bogo
+BOGO
+Tvoje pole: 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+Nepřítelovo pole: 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+Nepřítelovo pole: 
+W ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+2
+útočím...
+Výborně, zničil jsi soupeřovu 1. loď!
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+Nepřítelovo pole: 
+W ? ? ? ? ? ? ? 
+? H ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+3
+útočím...
+AI útočí...
+pog
+Ale ne! Soupeř zničil tvojí 2. loď!
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+Nepřítelovo pole: 
+W ? ? ? ? ? ? ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+2
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+Nepřítelovo pole: 
+W W ? ? ? ? ? ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+3
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+Nepřítelovo pole: 
+W W W ? ? ? ? ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+4
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? W ? ? ? 
+
+
+Nepřítelovo pole: 
+W W W W ? ? ? ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+5
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? W W ? ? 
+
+
+Nepřítelovo pole: 
+W W W W W ? ? ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+6
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W ? W W ? ? 
+
+
+Nepřítelovo pole: 
+W W W W W W ? ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+7
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? ? ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W ? W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W ? 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+8
+útočím...
+AI útočí...
+pog
+Ale ne! Soupeř zničil tvojí 1. loď!
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W ? W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+? H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+1
+zvol Y útoku
+9
+útočím...
+Něcos pokazil. Zkus to znovu. (java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 8)
+zvol X útoku
+1
+zvol Y útoku
+2
+útočím...
+Něcos pokazil. Zkus to znovu. (java.lang.Exception: Tady už tvoje munice plave.)
+zvol X útoku
+2
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? ? ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W ? ? ? ? ? ? ? 
+? ? W ? W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H ? ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+3
+útočím...
+Výborně, zničil jsi soupeřovu 1. loď!
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W ? ? ? ? ? ? ? 
+? ? W ? W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H ? ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+4
+útočím...
+Výborně, zničil jsi soupeřovu 1. loď!
+AI útočí...
+pog
+Ale ne! Soupeř zničil tvojí 6. loď!
+Tvoje pole: 
+? ? W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W H ? ? ? ? ? ? 
+? ? W ? W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H ? ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+5
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W H ? ? ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W ? ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+6
+útočím...
+Výborně, zničil jsi soupeřovu 2. loď!
+AI útočí...
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? ? W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W H ? ? ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H ? ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+7
+útočím...
+Výborně, zničil jsi soupeřovu 2. loď!
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W H ? ? ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H ? 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+2
+zvol Y útoku
+8
+útočím...
+AI útočí...
+pog
+Ale ne! Soupeř zničil tvojí 6. loď!
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? ? ? ? ? ? ? ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+? ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? ? ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? W ? ? ? ? ? ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W ? W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+2
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? W ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? W ? ? ? ? ? ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+4
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? W ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? ? 
+? W ? ? W ? ? ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+5
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? W ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? W 
+? W ? ? W ? ? ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+6
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? W ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+7
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? W ? W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+3
+zvol Y útoku
+8
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+? ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? ? ? ? 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+2
+útočím...
+Výborně, zničil jsi soupeřovu 3. loď!
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? ? 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? ? ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+3
+útočím...
+AI útočí...
+pog
+pog
+Ale ne! Soupeř zničil tvojí 6. loď!
+Tvoje pole: 
+? W W ? W ? ? ? 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+4
+útočím...
+Výborně, zničil jsi soupeřovu 4. loď!
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H ? H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+5
+útočím...
+Výborně, zničil jsi soupeřovu 4. loď!
+AI útočí...
+pog
+Ale ne! Soupeř zničil tvojí 6. loď!
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+6
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? ? ? ? ? W 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+7
+útočím...
+Výborně, zničil jsi soupeřovu 5. loď!
+AI útočí...
+pog
+pog
+pog
+Ale ne! Soupeř zničil tvojí 4. loď!
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? H ? ? ? W 
+? ? W W ? W ? W 
+? W ? ? W ? W ? 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+4
+zvol Y útoku
+8
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? H ? ? ? W 
+? ? W W ? W ? W 
+W W ? ? W ? W ? 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+pog
+Ale ne! Soupeř zničil tvojí 4. loď!
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? H ? ? ? W 
+? ? W W H W ? W 
+W W ? ? W ? W ? 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+2
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? H ? ? ? W 
+? ? W W H W ? W 
+W W ? ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+3
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? H ? ? ? W 
+? ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+4
+útočím...
+AI útočí...
+pog
+pog
+pog
+pog
+pog
+pog
+pog
+Ale ne! Soupeř zničil tvojí 5. loď!
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H ? W 
+? W W W ? ? ? ? 
+? ? ? H ? ? H W 
+? ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+5
+útočím...
+Výborně, zničil jsi soupeřovu 4. loď!
+AI útočí...
+pog
+Ale ne! Soupeř zničil tvojí 2. loď!
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? ? H H W 
+? W W W ? ? ? ? 
+? ? ? H ? ? H W 
+? ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+6
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W ? H ? W H H W 
+? W W W ? ? ? ? 
+? ? ? H ? ? H W 
+? ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+7
+útočím...
+AI útočí...
+pog
+pog
+Ale ne! Soupeř zničil tvojí 1. loď!
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W ? ? ? ? 
+? ? ? H ? ? H W 
+? ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+8
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W ? ? ? ? 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+5
+zvol Y útoku
+9
+útočím...
+Něcos pokazil. Zkus to znovu. (java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 8)
+zvol X útoku
+6
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W W ? ? ? 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+2
+útočím...
+AI útočí...
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W W W ? ? 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W ? W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+3
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W W W ? ? 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+4
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W ? W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W ? ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+5
+útočím...
+AI útočí...
+pog
+pog
+pog
+pog
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W ? W ? ? W 
+W H H ? W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W ? ? ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+7
+útočím...
+AI útočí...
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W W W ? ? W 
+W H H ? W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? ? W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W ? W ? 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+8
+útočím...
+AI útočí...
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W W W ? ? W 
+W H H ? W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W ? W W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+6
+zvol Y útoku
+6
+útočím...
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+? W W W W ? W W 
+W H H ? W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W W W W 
+? ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+7
+zvol Y útoku
+1
+útočím...
+AI útočí...
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+W W W W W ? W W 
+W H H ? W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W W W W 
+W ? ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+7
+zvol Y útoku
+2
+útočím...
+Výborně, zničil jsi soupeřovu 6. loď!
+AI útočí...
+pog
+pog
+pog
+Ale ne! Soupeř zničil tvojí 1. loď!
+Tvoje pole: 
+W W W W W ? W W 
+W H H H W H H W 
+? W W W W W ? W 
+? ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W W W W 
+W H ? ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+7
+zvol Y útoku
+3
+útočím...
+Výborně, zničil jsi soupeřovu 6. loď!
+AI útočí...
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+W W W W W ? W W 
+W H H H W H H W 
+? W W W W W ? W 
+W ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W W W W 
+W H H ? ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+7
+zvol Y útoku
+4
+útočím...
+Výborně, zničil jsi soupeřovu 6. loď!
+AI útočí...
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+W W W W W ? W W 
+W H H H W H H W 
+? W W W W W W W 
+W ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+? W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W W W W 
+W H H H ? ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+7
+zvol Y útoku
+5
+útočím...
+Výborně, zničil jsi soupeřovu 6. loď!
+AI útočí...
+pog
+pog
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Tvoje pole: 
+W W W W W ? W W 
+W H H H W H H W 
+? W W W W W W W 
+W ? ? H ? ? H W 
+W ? W W H W ? W 
+W W W W W W W W 
+W H ? H H H ? W 
+W W W W W W ? W 
+
+
+Nepřítelovo pole: 
+W W W W W W W W 
+W H H H W H H W 
+W W W W W W W W 
+W H W H H W H W 
+W W W W H W W W 
+W W W W W W W W 
+W H H H H ? ? ? 
+? ? ? ? ? ? ? ? 
+
+
+zvol X útoku
+7
+zvol Y útoku
+6
+útočím...
+Výborně, zničil jsi soupeřovu 6. loď!
+AI útočí...
+pog
+pog
+pog
+pog
+pog
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+Ale ne! Soupeř zničil tvojí -1. loď!
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+WARN: ID lodě nemůže být -1
+vyhrál oponent 😕
+gg, vyhrál jsi!
+7
+Process finished with exit code 0

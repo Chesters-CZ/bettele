@@ -10,20 +10,29 @@ public class Enemy {
     }
 
     public int[] getAttack() throws Exception {
-        switch (Instance.gaymInstance.botDifficulty) {
+        switch (Main.gaymInstance.botDifficulty) {
             case WATERWORKS:
                 if (Instance.fieldInstance.containsWater()) {
                     return getRandomTile(Tiles.Type.WATER);
                 }
             case BOGO:
-                return new int[]{(int) (Math.random() * 1000) % Instance.fieldInstance.youfield.length, (int) (Math.random() * 1000) % Instance.fieldInstance.youfield.length};
+                boolean firstRun = true;
+                int x = 0;
+                int y = 0;
+                while (firstRun || Instance.fieldInstance.youfield[x][y].tiletype != Tiles.Type.SHIP && Instance.fieldInstance.youfield[x][y].tiletype != Tiles.Type.WATER) {
+                    firstRun = false;
+                    //System.out.println("pog");
+                    x = (int) (Math.random() * 1000) % Instance.fieldInstance.youfield.length;
+                    y = (int) (Math.random() * 1000) % Instance.fieldInstance.youfield.length;
+                }
+                return new int[]{x, y};
             case AIMBOT:
                 return getRandomTile(Tiles.Type.SHIP);
             case VENDETTA:
                 if (75 - 3 * Instance.fieldInstance.countLode(Player.ENEMY) < Math.random() * 100) {
                     return getRandomTile(Tiles.Type.WATER);
                 } else {
-return getRandomTile(Tiles.Type.SHIP);
+                    return getRandomTile(Tiles.Type.SHIP);
                 }
             default:
                 throw new Exception("zjebec.");
