@@ -1,16 +1,23 @@
 public class Enemy {
+    public static Difficulty enemyDifficulty;
+
+    public Enemy(Difficulty diff) {
+        enemyDifficulty = diff;
+    }
+
     public void attack() throws Exception {
         int[] coords = getAttack();
         switch (Instance.fieldInstance.youfield[coords[0]][coords[1]].tiletype) {
             case WATER, SHIP -> Instance.fieldInstance.youfield[coords[0]][coords[1]].hit();
             case MISS, HIT -> throw new Exception(MikolasovyConsoleBarvy.PURPLE + "!" + MikolasovyConsoleBarvy.RESET + "nepřítel se posral"); // HIT OR MISS
-            default -> throw new Exception("zjebec.");
+            case SPORE -> Instance.fieldInstance.spreadKarel(coords[0], coords[1]);
+            default -> throw new Exception("neidentifikovaný zjebec.");
         }
         Instance.fieldInstance.breakShip(Instance.fieldInstance.youfield[coords[0]][coords[1]].shipid, Instance.fieldInstance.youfield, Player.YOU);
     }
 
     public int[] getAttack() throws Exception {
-        switch (Main.gaymInstance.botDifficulty) {
+        switch (enemyDifficulty) {
             case WATERWORKS:
                 if (Instance.fieldInstance.containsWater()) {
                     return getRandomTile(Tiles.Type.WATER);
@@ -34,8 +41,11 @@ public class Enemy {
                 } else {
                     return getRandomTile(Tiles.Type.SHIP);
                 }
+            case HOUBA:
+            case KAREL:
+                return getRandomTile(Tiles.Type.SPORE);
             default:
-                throw new Exception("zjebec.");
+                throw new Exception("identifikován zjebec.");
         }
     }
 
@@ -56,6 +66,6 @@ public class Enemy {
 
 
     public enum Difficulty {
-        WATERWORKS, BOGO, VENDETTA, AIMBOT
+        WATERWORKS, BOGO, VENDETTA, AIMBOT, HOUBA, KAREL
     }
 }

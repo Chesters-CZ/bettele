@@ -52,8 +52,10 @@ public class Field {
         }
         if (isSunk) {
             if (attacked == Player.ENEMY) {
-                System.out.println(MikolasovyConsoleBarvy.GREEN + "Výborně, zničil jsi soupeřovu " + shipid + ". loď!");
-            } else System.out.println(MikolasovyConsoleBarvy.RED + "Ale ne! Soupeř zničil tvojí " + shipid + ". loď!");
+                System.out.println(MikolasovyConsoleBarvy.GREEN + "Výborně, zničil jsi soupeřovu " + shipid + ". loď!" + MikolasovyConsoleBarvy.RESET);
+            } else
+                System.out.println(MikolasovyConsoleBarvy.RED + "Ale ne! Soupeř zničil tvojí " + shipid + ". loď!" + MikolasovyConsoleBarvy.RESET);
+            //FIXME: z nějakýho důvodu se každej hit považuje za potopenou loď
             int x = 0;
             int y;
             for (Tiles[] tiles : field) {
@@ -61,7 +63,7 @@ public class Field {
                 y = 0;
                 for (Tiles tile : tiles) {
                     y++;
-                    if (tile == Tiles.ship(shipid)) {
+                    if (shipid != -1 && tile == Tiles.ship(shipid)) {
                         for (int i = 0; i < 9; i++) {
                             field[x - 1 + i % 3][y - 1 + i / 3].hit();
                         }
@@ -108,5 +110,9 @@ public class Field {
             }
         }
         return count;
+    }
+
+    public void spreadKarel(int x, int y) {
+        youfield[x][y] = youfield[x - 1][y] = youfield[x][y - 1] = youfield[x - 1][y - 1] = youfield[x + 1][y] = youfield[x][y + 1] = youfield[x + 1][y + 1] = Tiles.makeTile(Tiles.Type.SPORE);
     }
 }

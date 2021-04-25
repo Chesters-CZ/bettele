@@ -6,6 +6,7 @@ public class Tiles {
         Tiles tiles = new Tiles();
         tiles.tiletype = tiletype;
         tiles.shipid = -1;
+        if (tiletype == Type.SPORE) tiles.shipid = (int) (Math.random()*69);
         return tiles;
     }
 
@@ -28,7 +29,7 @@ public class Tiles {
     }
 
     public enum Type {
-        WATER, SHIP, MISS, HIT
+        WATER, SHIP, MISS, HIT, SPORE
     }
 }
 
